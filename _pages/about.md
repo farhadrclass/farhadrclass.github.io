@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 Welcome to my website! I'm Farhad Rahbarnia, a Ph.D. student at Polytechnique Montréal. I'm delighted to have you here and share a bit about myself and my academic journey.
 
 
