@@ -12,9 +12,7 @@ redirect_from:
 # Curriculum Vitae
 
 
-<!-- ## Summary
 
-Highly motivated and results-driven individual with a strong background in computer science, engineering, and machine learning. Proven track record of conducting cutting-edge research, developing innovative solutions, and leading high-impact projects. Committed to continuous learning and passionate about leveraging technology to solve complex problems. Excellent team player and effective communicator. -->
 
 ## Education
 
@@ -229,5 +227,3 @@ Highly motivated and results-driven individual with a strong background in compu
 - **University of Guelph Entrance Scholarship**
   - **University of Guelph**
   - **Oct 2012**
-
-<!-- As before, I have removed commented out sections for a cleaner presentation in Markdown. If you would like them included, let me know, and I can include them as well.
